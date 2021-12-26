@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TanishthaM
+- 👀 I’m interested in Computer languages
+- 🌱 I’m currently learning Python.
